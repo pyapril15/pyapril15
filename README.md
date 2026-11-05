@@ -1,24 +1,29 @@
-# 💫 About Me:
-Hello! I’m Praveen, currently pursuing a Bachelor’s in Computer Applications (BCA) at Microtek College of Management and Technology. I am passionate about software development and have been honing my skills as a Python developer. My goal is to become a software engineer, and I’m also keen on exploring UI/UX design to create user-friendly applications. I love taking on new challenges and continuously improving my skills in both coding and design.
+<div align="center">
 
+<img src="assets/hero.svg?v=1" alt="Praveen Yadav, full stack developer. Cycles through Full Stack Developer, Mobile App Developer (Flutter), Python Developer and Competitive Programmer. Based in Varanasi, India." width="100%">
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/praveenyadav55) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/vyc95Zs2) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pyapril15) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__pyapril15.py__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pyapril15) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27695874) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pyapril15) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@BypassSpaces) 
+<img src="assets/about-life.svg?v=1" alt="What Praveen builds: web applications, mobile apps, Python and APIs, problem solving, shipping. Interests: competitive programming, football, strategic gaming." width="100%">
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pyapril15&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pyapril15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pyapril15&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="assets/stack.svg?v=1" alt="Tech stack: Python, JavaScript, Dart, Java, C++, React, React Native, Flutter, Node.js, Express.js, FastAPI, Supabase, Firebase, MySQL, Appwrite, Git, GitHub, Jenkins, Vercel and Netlify." width="100%">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pyapril15&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pyapril15&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Projects
 
----
-[![](https://visitcount.itsvg.in/api?id=pyapril15&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
+| Project | What it does | Built with | Live |
+| --- | --- | --- | --- |
+| **Minati Crypto Payment App** | Secure mobile cryptocurrency payment app with transaction processing and wallet management. | Flutter, Firebase | [buyminaticryptocoin.web.app](https://buyminaticryptocoin.web.app/) |
+| **E-commerce Platform** | Online shopping platform with a product catalog, cart and order management. | React, Supabase | [minatikart.vercel.app](https://minatikart.vercel.app/) |
+| **Travel Booking Portal** | Travel booking system with real-time data synchronization and dynamic content management for tour packages. | React, Supabase | [utsavtravels.vercel.app](https://utsavtravels.vercel.app/) |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+<img src="assets/id-dashboard.svg?v=1" alt="Developer ID card for Praveen Yadav hanging from a lanyard, next to a GitHub snapshot dated 4 Nov 2026: 41 public repositories, 3 followers, four pinned repositories." width="100%">
+
+<img src="assets/connect.svg?v=1" alt="Praveen points toward his GitHub, LinkedIn, portfolio and LeetCode profiles." width="100%">
+
+**[GitHub](https://github.com/pyapril15)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/praveenyadavme)** &nbsp;·&nbsp; **[Portfolio](https://praveenyadavme.vercel.app)** &nbsp;·&nbsp; **[LeetCode](https://leetcode.com/u/leetPraveenYadav)**
+
+</div>
+
+<sub>Full stack developer who builds web and mobile applications with React, Flutter, and Python, and is currently pursuing an MCA at Lovely Professional University. Previously Full Stack Developer at KryptoAd Company (June 2025 – Oct. 2025).<br>Fonts: Unbounded and JetBrains Mono, SIL OFL 1.1. Icons: Simple Icons (CC0) and Devicon (MIT). See <a href="licenses/">licenses/</a>.</sub>
