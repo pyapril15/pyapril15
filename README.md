@@ -39,8 +39,8 @@
 | Repository | About | Language | Stars |
 | :-- | :-- | :-- | --: |
 | [**titanic-machine-learning-from-disaster**](https://github.com/pyapril15/titanic-machine-learning-from-disaster) | No description yet | Jupyter Notebook | 0 |
-| [**shortly**](https://github.com/pyapril15/shortly) | No description yet | Python | 0 |
 | [**sql_server**](https://github.com/pyapril15/sql_server) | No description yet | - | 0 |
+| [**shortly**](https://github.com/pyapril15/shortly) | No description yet | Python | 0 |
 | [**DSA-in-python**](https://github.com/pyapril15/DSA-in-python) | No description yet | - | 0 |
 | [**praveenyadav.dev**](https://github.com/pyapril15/praveenyadav.dev) | No description yet | TypeScript | 0 |
 <!--REPOS:END-->
