@@ -20,3 +20,24 @@ open(f"{OUT}/profile-3d-contrib/profile-night-view.svg", "w").write(
     '<text x="500" y="122" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#e7e9f5">Your 3D contribution city appears here</text>'
     '<text x="500" y="150" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#8a8fab">Actions tab, run "GitHub-Profile-3D-Contrib" once. It refreshes daily after that.</text></svg>')
 print("profile-3d-contrib/profile-night-view.svg (placeholder)")
+
+# ---- README: live "Latest repositories" table + automatic cache-busting (?v=<content hash>)
+import hashlib, json, re
+from common import STATS
+rd = f"{OUT}/README.md"
+txt = open(rd, encoding="utf-8").read()
+rows = []
+for r in STATS.get("recent", []):
+    desc = (r["desc"] or "No description yet").replace("|", "/").strip()
+    desc = desc if len(desc) <= 110 else desc[:107] + "..."
+    rows.append(f"| [**{r['name']}**](https://github.com/{STATS['user']}/{r['name']}) | {desc} | {r['lang'] or '-'} | {r['stars']} |")
+table = "| Repository | About | Language | Stars |\n| :-- | :-- | :-- | --: |\n" + "\n".join(rows)
+txt = re.sub(r"(<!--REPOS:START-->).*?(<!--REPOS:END-->)", lambda m: f"{m.group(1)}\n{table}\n{m.group(2)}", txt, flags=re.S)
+
+def bust(m):
+    p = m.group(1)
+    h = hashlib.md5(open(f"{OUT}/{p[2:]}", "rb").read()).hexdigest()[:8]
+    return f"{p}?v={h}"
+txt = re.sub(r"(\./[\w\-/]+\.svg)\?v=\w+", bust, txt)
+open(rd, "w", encoding="utf-8").write(txt)
+print("README refreshed (latest repos + cache-bust)")

@@ -3,7 +3,6 @@ from PIL import Image
 from common import *
 
 W, H, P = 1000, 440, "h"
-ROLES = ["Full Stack & Mobile Developer", "Flutter and React, shipped end to end", "Node.js, FastAPI and Firebase backends"]
 LOOP = 4.0                      # viewfinder loop: play ~2s, hold last frame ~1.4s, fade, repeat
 FX, FY, FW, FH = 604, 40, 348, 360   # viewfinder frame
 
@@ -55,7 +54,7 @@ def build():
              f'<text x="50" y="270" class="d" font-size="72" fill="url(#{P}ng)" letter-spacing="-1">{CFG["last"]}</text></g></g>')
 
     # ---- cycling role lines
-    nr = len(ROLES); per = 9.0
+    ROLES = CFG["roles"]; nr = len(ROLES); per = 3.0 * nr
     for i, r in enumerate(ROLES):
         kt, op, xo = cycle_pts(nr, i, fade=.035, off=14)
         o.append(f'<g opacity="{1 if i == 0 else 0}"><g>'

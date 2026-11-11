@@ -160,7 +160,7 @@ def dashboard():
     o.append(f'{glass(X0+32, ny, CWD-64, 114, 18, .04, .09)}'
              f'<circle cx="{X0+54}" cy="{ny+27}" r="4" fill="{PINK}"/><circle cx="{X0+54}" cy="{ny+27}" r="4" fill="none" stroke="{PINK}">{anim("r",[4,12],2,[0,1])}{anim("opacity",[.8,0],2,[0,1])}</circle>'
              f'<text x="{X0+68}" y="{ny+31}" class="dm" font-size="13" fill="{INK}">Now</text>')
-    lines = ["studying MCA at Lovely Professional University", "building Flutter and Firebase apps", "practising DSA in C++, Java and Python"]
+    lines = CFG["now"][:3]
     for k, ln in enumerate(lines):
         y = ny + 56 + k * 22
         o.append(f'<g>{ent("opacity", 0, 1, 1.4 + k * .35, .6)}<text x="{X0+54}" y="{y}" class="mb" font-size="12.5" fill="{CYAN}">&gt;</text>'

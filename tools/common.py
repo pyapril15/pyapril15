@@ -15,6 +15,7 @@ CFG = dict(
     linkedin="linkedin.com/in/praveenyadavme", instagram="instagram.com/praveen.yadav.in",
     portfolio="praveenyadavdev.vercel.app",
 )
+CFG.update(json.load(open(f"{HERE}/profile.json", encoding="utf-8")))   # edit profile.json to change any text
 STATS = json.load(open(f"{ASSETS}/stats.json"))
 ICONS = json.load(open(f"{ASSETS}/icons.json"))
 

@@ -26,5 +26,37 @@
    1
   ]
  ],
+ "recent": [
+  {
+   "name": "titanic-machine-learning-from-disaster",
+   "desc": null,
+   "lang": "Jupyter Notebook",
+   "stars": 0
+  },
+  {
+   "name": "shortly",
+   "desc": null,
+   "lang": "Python",
+   "stars": 0
+  },
+  {
+   "name": "sql_server",
+   "desc": null,
+   "lang": null,
+   "stars": 0
+  },
+  {
+   "name": "DSA-in-python",
+   "desc": null,
+   "lang": null,
+   "stars": 0
+  },
+  {
+   "name": "praveenyadav.dev",
+   "desc": null,
+   "lang": "TypeScript",
+   "stars": 0
+  }
+ ],
  "asof": "2026-11-11"
 }

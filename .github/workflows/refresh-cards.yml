@@ -1,0 +1,48 @@
+name: Refresh profile cards
+
+# Rebuilds the SVG cards with live numbers (repos, stars, followers, languages, top repos,
+# latest repositories) and your text from tools/profile.json.
+on:
+  schedule:
+    - cron: "15 */6 * * *"      # every 6 hours
+  workflow_dispatch:             # Actions tab -> Run workflow
+  push:
+    paths:
+      - "tools/**"
+      - ".github/workflows/refresh-cards.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-commits
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install build dependencies
+        run: pip install pillow fonttools brotli
+      - name: Fetch live stats
+        working-directory: tools
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python update_stats.py
+      - name: Rebuild cards and README
+        working-directory: tools
+        run: python build.py
+      - name: Commit if anything changed
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "refresh profile cards"; then
+            git pull --rebase
+            git push
+          fi

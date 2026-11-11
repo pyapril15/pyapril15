@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-commits
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -24,5 +28,6 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           if git commit -m "generated"; then
+            git pull --rebase
             git push
           fi
