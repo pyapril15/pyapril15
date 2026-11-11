@@ -1,0 +1,6 @@
+pillow
+numpy
+scipy
+fonttools
+brotli
+playwright   # only for check.py

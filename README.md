@@ -1,29 +1,55 @@
-<div align="center">
+<p align="center">
+  <img src="./hero.svg?v=1" alt="Praveen Yadav, Full Stack and Mobile Developer. Open to collabs." width="100%">
+</p>
 
-<img src="assets/hero.svg?v=1" alt="Praveen Yadav, full stack developer. Cycles through Full Stack Developer, Mobile App Developer (Flutter), Python Developer and Competitive Programmer. Based in Varanasi, India." width="100%">
+<p align="center">
+  Full Stack and Mobile developer who turns ideas into clean, fast, user-friendly products.<br>
+  Cross-platform apps with <b>Flutter</b> and <b>React</b>, backed by <b>Node.js</b>, <b>FastAPI</b> and <b>Firebase / Supabase</b>.
+</p>
 
-<img src="assets/about-life.svg?v=1" alt="What Praveen builds: web applications, mobile apps, Python and APIs, problem solving, shipping. Interests: competitive programming, football, strategic gaming." width="100%">
+<p align="center">
+  <img src="./about-life.svg?v=1" alt="What I build, and what I do off the keyboard: football, kho-kho, building apps and problem solving." width="100%">
+</p>
 
-<img src="assets/stack.svg?v=1" alt="Tech stack: Python, JavaScript, Dart, Java, C++, React, React Native, Flutter, Node.js, Express.js, FastAPI, Supabase, Firebase, MySQL, Appwrite, Git, GitHub, Jenkins, Vercel and Netlify." width="100%">
+<p align="center">
+  <img src="./stack.svg?v=1" alt="Tech stack: languages, mobile and frontend, backend and APIs, data and BaaS, tools and cloud." width="100%">
+</p>
 
-</div>
+<p align="center">
+  <img src="./id-dashboard.svg?v=1" alt="Developer ID badge and a GitHub dashboard: repositories, stars, followers, most-starred repositories and what I'm doing now." width="100%">
+</p>
 
-## Projects
+## Selected projects
 
-| Project | What it does | Built with | Live |
-| --- | --- | --- | --- |
-| **Minati Crypto Payment App** | Secure mobile cryptocurrency payment app with transaction processing and wallet management. | Flutter, Firebase | [buyminaticryptocoin.web.app](https://buyminaticryptocoin.web.app/) |
-| **E-commerce Platform** | Online shopping platform with a product catalog, cart and order management. | React, Supabase | [minatikart.vercel.app](https://minatikart.vercel.app/) |
-| **Travel Booking Portal** | Travel booking system with real-time data synchronization and dynamic content management for tour packages. | React, Supabase | [utsavtravels.vercel.app](https://utsavtravels.vercel.app/) |
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| [**noteit**](https://github.com/pyapril15/noteit) | Note-taking app with cloud sync and offline access. | Flutter, Dart |
+| **Minati Crypto Payment App** | Secure mobile payments for cryptocurrency transactions, built at KryptoAd. | Flutter, Firebase |
+| [**indian-festivals-api**](https://github.com/pyapril15/indian-festivals-api) | Public API for Indian festivals, holidays and religious celebrations. [Live](https://indian-festivals-api.onrender.com) | FastAPI, Python |
+| [**Dictionary**](https://github.com/pyapril15/Dictionary) | Desktop dictionary with fast word lookup that works offline. | Python, Tkinter |
+| [**brightpath-nextjs-main**](https://github.com/pyapril15/brightpath-nextjs-main) | Philanthropy platform with a public site and secure user and admin dashboards. | Next.js, Prisma, Supabase |
+| [**guvi-hcl-internship-project-3**](https://github.com/pyapril15/guvi-hcl-internship-project-3) | Invoice generator for freelancers and small businesses. | React, TypeScript, Firebase |
+| [**CAP776**](https://github.com/pyapril15/CAP776) | LPU MCA minor project, "My Data, My Story": turns a personal daily activity log into activity indices. | Python, openpyxl |
 
-<div align="center">
+## Contributions, as a city
 
-<img src="assets/id-dashboard.svg?v=1" alt="Developer ID card for Praveen Yadav hanging from a lanyard, next to a GitHub snapshot dated 4 Nov 2026: 41 public repositories, 3 followers, four pinned repositories." width="100%">
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg?v=1" alt="3D night-view city built from my GitHub contributions" width="100%">
+</p>
 
-<img src="assets/connect.svg?v=1" alt="Praveen points toward his GitHub, LinkedIn, portfolio and LeetCode profiles." width="100%">
+<p align="center"><sub>Generated daily by <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>.</sub></p>
 
-**[GitHub](https://github.com/pyapril15)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/praveenyadavme)** &nbsp;·&nbsp; **[Portfolio](https://praveenyadavme.vercel.app)** &nbsp;·&nbsp; **[LeetCode](https://leetcode.com/u/leetPraveenYadav)**
+## Say hi
 
-</div>
+<p align="center">
+  <a href="https://praveenyadavdev.vercel.app">
+    <img src="./connect.svg?v=1" alt="Find me at @pyapril15: LinkedIn, portfolio, Instagram and email." width="100%">
+  </a>
+</p>
 
-<sub>Full stack developer who builds web and mobile applications with React, Flutter, and Python, and is currently pursuing an MCA at Lovely Professional University. Previously Full Stack Developer at KryptoAd Company (June 2025 – Oct. 2025).<br>Fonts: Unbounded and JetBrains Mono, SIL OFL 1.1. Icons: Simple Icons (CC0) and Devicon (MIT). See <a href="licenses/">licenses/</a>.</sub>
+<p align="center">
+  <a href="https://linkedin.com/in/praveenyadavme">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://praveenyadavdev.vercel.app">Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://instagram.com/praveen.yadav.in">Instagram</a> &nbsp;|&nbsp;
+  <a href="mailto:praveen885127@gmail.com">Email</a>
+</p>
