@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pyapril15?tab=repositories"><img src="./id-dashboard.svg?v=560ae70d" alt="Developer ID badge and a GitHub dashboard: repositories, stars, followers, most-starred repositories and what I'm doing now." width="100%"></a>
+  <a href="https://github.com/pyapril15?tab=repositories"><img src="./id-dashboard.svg?v=ab6c1ec3" alt="Developer ID badge and a GitHub dashboard: repositories, stars, followers, most-starred repositories and what I'm doing now." width="100%"></a>
 </p>
 
 ## Selected projects
