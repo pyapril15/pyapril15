@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/pyapril15?tab=repositories"><img src="./hero.svg?v=38f55444" alt="Praveen Yadav, Full Stack and Mobile Developer. Open to collabs." width="100%"></a>
+  <a href="https://github.com/pyapril15?tab=repositories"><img src="./hero.svg?v=869c054d" alt="Praveen Yadav, Full Stack and Mobile Developer. Open to collabs." width="100%"></a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pyapril15?tab=repositories"><img src="./id-dashboard.svg?v=11fdbc10" alt="Developer ID badge and a GitHub dashboard: repositories, stars, followers, most-starred repositories and what I'm doing now." width="100%"></a>
+  <a href="https://github.com/pyapril15?tab=repositories"><img src="./id-dashboard.svg?v=85e3f533" alt="Developer ID badge and a GitHub dashboard: repositories, stars, followers, most-starred repositories and what I'm doing now." width="100%"></a>
 </p>
 
 ## Selected projects
