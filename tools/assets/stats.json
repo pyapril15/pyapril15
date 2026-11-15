@@ -1,6 +1,6 @@
 {
  "user": "pyapril15",
- "repos": 42,
+ "repos": 43,
  "stars": 15,
  "followers": 3,
  "languages": 8,
@@ -28,6 +28,12 @@
  ],
  "recent": [
   {
+   "name": "praveenyadav",
+   "desc": null,
+   "lang": "TypeScript",
+   "stars": 0
+  },
+  {
    "name": "titanic-machine-learning-from-disaster",
    "desc": null,
    "lang": "Jupyter Notebook",
@@ -50,13 +56,7 @@
    "desc": null,
    "lang": null,
    "stars": 0
-  },
-  {
-   "name": "praveenyadav.dev",
-   "desc": null,
-   "lang": "TypeScript",
-   "stars": 0
   }
  ],
- "asof": "2026-11-14"
+ "asof": "2026-11-15"
 }

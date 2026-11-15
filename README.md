@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/pyapril15?tab=repositories"><img src="./hero.svg?v=869c054d" alt="Praveen Yadav, Full Stack and Mobile Developer. Open to collabs." width="100%"></a>
+  <a href="https://github.com/pyapril15?tab=repositories"><img src="./hero.svg?v=38f55444" alt="Praveen Yadav, Full Stack and Mobile Developer. Open to collabs." width="100%"></a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pyapril15?tab=repositories"><img src="./id-dashboard.svg?v=2c6f4543" alt="Developer ID badge and a GitHub dashboard: repositories, stars, followers, most-starred repositories and what I'm doing now." width="100%"></a>
+  <a href="https://github.com/pyapril15?tab=repositories"><img src="./id-dashboard.svg?v=11fdbc10" alt="Developer ID badge and a GitHub dashboard: repositories, stars, followers, most-starred repositories and what I'm doing now." width="100%"></a>
 </p>
 
 ## Selected projects
@@ -38,11 +38,11 @@
 <!--REPOS:START-->
 | Repository | About | Language | Stars |
 | :-- | :-- | :-- | --: |
+| [**praveenyadav**](https://github.com/pyapril15/praveenyadav) | No description yet | TypeScript | 0 |
 | [**titanic-machine-learning-from-disaster**](https://github.com/pyapril15/titanic-machine-learning-from-disaster) | No description yet | Jupyter Notebook | 0 |
 | [**sql_server**](https://github.com/pyapril15/sql_server) | No description yet | - | 0 |
 | [**shortly**](https://github.com/pyapril15/shortly) | No description yet | Python | 0 |
 | [**DSA-in-python**](https://github.com/pyapril15/DSA-in-python) | No description yet | - | 0 |
-| [**praveenyadav.dev**](https://github.com/pyapril15/praveenyadav.dev) | No description yet | TypeScript | 0 |
 <!--REPOS:END-->
 
 ## Contributions, as a city
